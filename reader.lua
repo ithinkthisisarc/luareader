@@ -26,5 +26,5 @@ elseif text=="apfile" then
 	io.write(content)
 else
 	print(" => Could not find command")
-	text = "quit"
+	text = "quit" 
 end
